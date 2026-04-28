@@ -12,6 +12,7 @@ Sou um desenvolvedor focado no ecossistema **Java** e apaixonado por resolver pr
 | **Frameworks** | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) |
 | **Versionamento** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 | **IDEs** | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+| **Bancos de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![H2](https://img.shields.io/badge/H2_Database-4479A1?style=for-the-badge&logo=databricks&logoColor=white) |
 
 ---
 
@@ -21,6 +22,10 @@ Sou um desenvolvedor focado no ecossistema **Java** e apaixonado por resolver pr
 - 🏗️ **Arquitetura de Software:** Padrões de projeto e os pilares da POO.
 - 🚀 **Spring Boot:** Criando APIs REST eficientes e seguras.
 - 🧪 **Testes Unitários:** Aprendendo a garantir a qualidade do código com JUnit.
+- ### 🗄️ Database Skills
+- **Modelagem de Dados:** Criação de diagramas ER (Entidade-Relacionamento) e normalização.
+- **Linguagem SQL:** Manipulação de dados (DML) e definição de estruturas (DDL).
+- **Integração Java:** Experiência inicial com JDBC e curiosidade em ORMs (Object-Relational Mapping).
 
 ---
 
