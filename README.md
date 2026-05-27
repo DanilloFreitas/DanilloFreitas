@@ -33,5 +33,5 @@ Sou um desenvolvedor focado no ecossistema **Java** e apaixonado por resolver pr
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DanilloFreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DanilloFreitas&layout=compact&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=DanilloFreitas&theme=dracula&show_icons=true)
+![Linguagens mais usadas](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=DanilloFreitas...)
