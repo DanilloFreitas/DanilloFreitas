@@ -4,6 +4,69 @@ Desenvolvedor backend focado em **Java** e **Spring Boot**. Curso Ciência da Co
 
 Comecei programando em C e hoje o que me interessa é escrever backend que seja simples de entender depois: camadas bem separadas, erro tratado de verdade e teste onde realmente importa.
 
+📍 Goiânia, GO · 🎓 Conclusão prevista para 2027.2
+
+---
+
+### 🔨 No que estou trabalhando agora
+
+**[unify-cli](https://github.com/DanilloFreitas/cli-java)** — CLI em Java que unifica o `setup` e o `run` de qualquer projeto a partir de um único `project.yaml`. Detecta a stack automaticamente pelo arquivo indicador, executa os comandos com streaming da saída em tempo real e empacota em Fat JAR ou executável nativo via `jpackage`.
+
+**[Gavie](https://github.com/DanilloFreitas/gavie-freela-v2)** — landing page de e-commerce que entreguei para um cliente real, do design no Figma ao site no ar em **[gavie.me](https://gavie.me)**. HTML semântico, Tailwind CSS v4 e JavaScript vanilla, sem framework.
+
+**[Método Pomodoro v2](https://github.com/DanilloFreitas/Meteodo-Pomodorov2)** — API REST de um app de produtividade gamificado, com arquitetura em camadas e regras próprias de evolução do usuário.
+
+---
+
+### 🛠 Tecnologias
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+**Dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![H2](https://img.shields.io/badge/H2-09476B?style=for-the-badge&logo=h2database&logoColor=white)
+
+**Fundamentos e ferramentas**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📩 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danillo-fernandes/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supdanillosup@gmail.com)
+
+---
+
+### 📊 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanilloFreitas/DanilloFreitas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanilloFreitas/DanilloFreitas/output/github-contribution-grid-snake.svg">
+  <img alt="Github snake game" src="https://raw.githubusercontent.com/DanilloFreitas/DanilloFreitas/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+# Danillo Freitas
+
+Desenvolvedor backend focado em **Java** e **Spring Boot**. Curso Ciência da Computação na **UFG** e trabalho como freelancer, construindo APIs e ferramentas sob medida para pequenas empresas.
+
+Comecei programando em C e hoje o que me interessa é escrever backend que seja simples de entender depois: camadas bem separadas, erro tratado de verdade e teste onde realmente importa.
+
 📍 Goiânia, GO · 🎓 Conclusão prevista para 2027.2 · 💼 **Aberto a vagas de backend (júnior ou estágio)**
 
 ---
