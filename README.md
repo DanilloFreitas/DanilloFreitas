@@ -10,7 +10,7 @@ Comecei programando em C e hoje o que me interessa é escrever backend que seja 
 
 ### 🔨 No que estou trabalhando agora
 
-**[unify-cli](https://github.com/DanilloFreitas/cli-java)** — CLI em Java que unifica o `setup` e o `run` de qualquer projeto a partir de um único `project.yaml`. Detecta a stack automaticamente pelo arquivo indicador, executa os comandos com streaming da saída em tempo real e empacota em Fat JAR ou executável nativo via `jpackage`.
+**[unify-cli](https://github.com/DanilloFreitas/unify-cli)** — CLI em Java que unifica o `setup` e o `run` de qualquer projeto a partir de um único `project.yaml`. Detecta a stack automaticamente pelo arquivo indicador, executa os comandos com streaming da saída em tempo real e empacota em Fat JAR ou executável nativo via `jpackage`.
 
 **[Gavie](https://github.com/DanilloFreitas/gavie-freela-v2)** — landing page de e-commerce que entreguei para um cliente real, do design no Figma ao site no ar em **[gavie.me](https://gavie.me)**. HTML semântico, Tailwind CSS v4 e JavaScript vanilla, sem framework.
 
