@@ -10,6 +10,9 @@ Comecei programando em C e hoje o que me interessa é escrever backend que seja 
 
 ### 🔨 No que estou trabalhando agora
 
+**REG Digital** — sistema de gestão de transporte que desenvolvo em equipe para o **CRER**, centro estadual de reabilitação em Goiânia. Troca um formulário impresso por um fluxo digital: inspeção veicular de 53 itens, controle de rotas, assinatura e PDF fiel ao documento oficial. Registro assinado vira imutável — correção só por retificação, que grava autor, campo, valor anterior e motivo na trilha de auditoria, e o PDF carrega hash SHA-256 de integridade. Código em camadas com a persistência isolada num módulo, e o fluxo coberto por testes end-to-end em Playwright.
+*Estado: em desenvolvimento, ainda não está em uso. O repositório é privado e não é meu, então não tem link aqui.*
+
 **[unify-cli](https://github.com/DanilloFreitas/unify-cli)** — CLI em Java que unifica o `setup` e o `run` de qualquer projeto a partir de um único `project.yaml`. Detecta a stack automaticamente pelo arquivo indicador, executa os comandos com streaming da saída em tempo real e empacota em Fat JAR ou executável nativo via `jpackage`.
 *Estado: funcional, com os testes JUnit passando e testado de ponta a ponta com JDK 21. Ainda sem instalador — roda pelo Fat JAR ou pelo executável gerado com `jpackage`.*
 
